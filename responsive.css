@@ -1,0 +1,29 @@
+@media(max-width:1277px){
+    *{
+        width: auto;
+        height: auto;
+    }
+    .pst{
+        min-width: 40%;
+    }
+
+}
+
+@media(max-width: 1277px){
+    .content-list{
+    margin-left: 20%;
+    }
+
+    .content-list a{
+        /* font-size: 11px; */
+        margin: px;
+    }
+}
+
+@media(max-width:1000px){
+    .footer .view {
+        font-size: 10px;
+        min-width: 10%;
+
+    }
+}

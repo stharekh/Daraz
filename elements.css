@@ -1,0 +1,128 @@
+
+.elements{
+    display: flex;
+    margin-top: 20px;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.dmall{
+    width: 32px;
+    height: 32px;
+    border-radius: 100px;
+}
+
+.dm{
+    display: flex;
+    font-family:  Roboto-Regular, Helvetica, sans-serif;
+    font-size: 18px;
+    align-items: center;
+    width: 222px;
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 5px;
+    cursor: pointer;
+    float: left;
+    background-color: white;
+}
+
+.dm:hover{
+    box-shadow: 0 0 5px 0 rgb(0 0 0 / 50%);
+    color: rgb(68, 46, 147);
+}
+
+.dmart{
+    width: 32px;
+    height: 32px;
+    border-radius: 100px;
+    
+}
+
+.dt{
+    display: flex;
+    font-family:  Roboto-Regular, Helvetica, sans-serif;
+    font-size: 18px;
+    align-items: center;
+    width: 222px;
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 5px;
+    background-color: white;
+    cursor: pointer;
+    margin-left: 15px;
+}
+
+.dt:hover{
+    box-shadow: 0 0 5px 0 rgb(0 0 0 / 50%);
+}
+
+.res{
+    width: 32px;
+    height: 32px;
+    border-radius: 100px;
+}
+.rc{
+    display: flex;
+    font-family:  Roboto-Regular, Helvetica, sans-serif;
+    font-size: 18px;
+    align-items: center;
+    width: 222px;
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 5px;
+    background-color: white;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.rc:hover{
+    box-shadow: 0 0 5px 0 rgb(0 0 0 / 50%);
+    color: rgb(42, 187, 232);
+}
+
+.rwin{
+    width: 32px;
+    height: 32px;
+    border-radius: 100px;
+}
+.rw{
+    display: flex;
+    font-family:  Roboto-Regular, Helvetica, sans-serif;
+    font-size: 18px;
+    align-items: center;
+    width: 222px;
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 5px;
+    background-color: white;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.rw:hover{
+    box-shadow: 0 0 5px 0 rgb(0 0 0 / 50%);
+    color: rgb(81, 57, 4);
+}
+.alles{
+    width: 32px;
+    height: 32px;
+    border-radius: 100px;
+}
+.ae{
+    display: flex;
+    font-family:  Roboto-Regular, Helvetica, sans-serif;
+    font-size: 18px;
+    align-items: center;
+    width: 222px;
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 5px;
+    background-color: white;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.ae:hover{
+    box-shadow: 0 0 5px 0 rgb(0 0 0 / 50%);
+}
+

@@ -1,0 +1,96 @@
+.jfu{
+    display: flex;
+    justify-content: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 22px;
+    color: #424242;
+    font-weight: 400;
+    box-sizing: border-box;
+    margin-right: 1060px;
+    margin-top: 20px;
+
+}
+.cs{
+    display: flex;
+    justify-content: center;
+    margin-left: 40px;
+    margin-top: 5px;
+
+}
+.products {
+  
+    width: 1230px;
+    color: #212121;
+    font-family: Roboto-Regular, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-top  : 5px;
+
+  }
+  .product-1 {
+    display: inline-flex;
+    /* justify-content: space-around; */
+    height: 310px;
+    width: 188px;
+    flex-direction: column;
+    background-color: white;
+    margin-right: 7px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    overflow: hidden;
+
+  }
+  .gap {
+    background-color: white;
+    line-height: 14px;
+    font-size: 14px;
+    display: flex;
+    cursor: auto;
+  }
+  .product-name {
+    position: relative;
+    font-size: 14px;
+    height: 36px;
+    line-height: 18px;
+    color: #212121;
+    white-space: normal;
+    margin-left: 5px;
+    background-color: white;
+  }
+  .product-price{
+    color: #f57224;
+    line-height: 22px;
+    height: 22px;
+    font-size: 18px;
+    margin-left: 5px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: white;  
+}
+
+.products_rating{
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    margin-left: -10px;
+}
+  
+
+  .MuiSvgIcon-root {
+
+fill: currentColor;
+width: 1em;
+height: 1em;
+display: inline-block;
+font-size: 1.5rem;
+transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+flex-shrink: 0;
+user-select: none;
+background-color: transparent;
+transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.rating__icon {
+color: #faca51;
+}
+.product-1:hover{
+box-shadow: 4px 3px 10px rgb(158, 158, 158, 0.2);
+}

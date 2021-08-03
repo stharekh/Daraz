@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    background-color: #f5f5f5;;
+}
+.poster{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    background-color: #fcc14f;
+    cursor: pointer;
+}
+
+.pst{
+    width: 1220px;
+}
